@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Abdulwadud from Nigeria.
-- 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Kali linux.
-- 📫 How to reach me Email:normaleasy045@gmail.com Social media:https://www.facebook.com/idrss.abdulwadud
+- Hi, I’m Quantum from Nigeria.
+- Studying Computer Science.
+- I’m currently learning About the blockchain.
+- reach out to me on normaleasy045@gmail.com
 
 <!---
 IdrisAbdulwadud900/IdrisAbdulwadud900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
